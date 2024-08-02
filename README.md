@@ -4,12 +4,11 @@
 <h4> &nbsp;About Me </h4>
 
 - 😀 &nbsp; Creating video games and learning new technologies and languages.
-- 💼 &nbsp; Working as a Software Developer for General Dynamics Electric Boat.
-- 📚 &nbsp; Learning new languages and technologies such as GoLang, Python, C#, HTML, CSS, JavaScript, and AWS
+- 📚 &nbsp; Learning new CS languages and technologies such as GoLang, Python, C#, HTML, CSS, and JavaScript
 - 🎓 &nbsp; Completed my Computer Science Honors degree at Central Connecticut State University.
-- 💡 &nbsp; Interested in studying Japanese, writing stories, drawing, music, board games, video games, anime, and Sci-fi/fantasy.
+- 💡 &nbsp; Interested in writing stories, drawing, music, board games, video games, Dungeons & Dragons and Sci-fi/fantasy.
 
-<h4> &nbsp;Languages & Technologies </h4>
+<h4> &nbsp;CS Languages & Technologies </h4>
 
 - 🖥️ &nbsp;
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
@@ -39,7 +38,5 @@
 <h3> 📞 &nbsp;Contact Me </h3>
 
 <p>
-<a href="mailto:curtiswillbanks@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-curtiswillbanks@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:carinawillbanks@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-carinawillbanks@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <br/>
-<a href="https://www.linkedin.com/in/curtis-willbanks-b10191211/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Curtis%20Willbanks-blue?style=flat-square&logo=linkedin"></a>
-</p>
