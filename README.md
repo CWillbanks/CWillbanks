@@ -1,5 +1,5 @@
 
-<h2> Hello! 👋 My name is Curtis </h2>
+<h2> Hello! 👋 My name is Carina </h2>
 
 <h4> &nbsp;About Me </h4>
 
